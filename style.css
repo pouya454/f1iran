@@ -1,0 +1,223 @@
+/* ------------------- HeadeContent -------------------- */
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+
+ul {
+    list-style: none;
+  }
+
+
+.nav-icone{
+    width: 20px;
+    height: 20px;
+}
+
+
+
+.bgtop{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+}
+
+
+
+.header-top{
+    height: 200px;
+    padding-top: 20px;
+    /* background-color:white */
+}
+
+
+.header-nav{
+    margin-top: 5px;
+    /* background-color: darkgoldenrod; */
+    height: 50px;
+}
+
+
+
+/* ------------------------ main ------------------------- */
+
+.main-top{
+    height: 200px;
+    margin-top: 10px;
+}
+
+
+
+
+
+.bgmain2{
+    background-color: white;
+    
+}
+
+
+.bgmain-i{
+    width: 560px;
+}   
+
+
+.bgmain-i2{
+    width: 280px;
+}
+
+
+
+.main-but{
+    margin-top: 20px;
+}
+
+
+
+/* ---------------------------------sec2---------------------------- */
+
+
+
+.bg-right{
+    margin-top: 70px;
+    gap: 20px;
+}
+
+
+.bg-r{
+   background-color:rgb(75, 71, 71);
+   width: 100%;
+   text-align: center;
+   color: white;
+   border-radius: 7px;
+   margin-left: 10px;
+}
+
+.bg-in{
+   background-color: rgb(183, 184, 184);
+   width: 100%;
+   text-align: center;
+   color: white;
+   border-radius: 7px;
+}
+.bg-m{
+   padding: 5px 5px 5px 20px;
+}
+  
+.bg-l{
+  /* background-color: rgb(255, 0, 55); */
+  width: 100%;
+  margin-left: 10px;
+}
+
+.txt-r{
+  padding-right: 10px;
+}
+
+
+.tit{
+    border-bottom: solid 2px ;
+}
+
+.fs{
+    font-size: smaller;
+    text-align: right;
+}
+
+.Social-networks-tit{
+    text-align: center;
+    color: white;
+    background-color: darkorange;
+    border-radius: 7px;
+}
+
+.User-panel{
+    background-color: blue;
+    color: white;
+    border-radius: 7px;
+    text-align: center;
+    padding: 5px;
+}
+
+
+
+.User-name{
+    border-radius: 7px;
+    text-align: center;
+}
+
+
+.input{
+    width: 250px;
+}
+
+
+.first-row{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+.Team-scoreboard{
+    gap: 5px;
+}
+
+.bg-score{
+   background-color: rgb(170, 175, 175);
+   border-radius: 5px;
+}
+
+
+.b-team{
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+}
+
+
+.telegram{
+    border-radius: 5px;
+    margin-left: 610px;
+    margin-top: 10px;
+}
+
+
+
+/* ---------------------------------footer--------------------------------------- */
+
+
+
+.bg-footer{
+    background-color: rgb(59, 56, 56);
+    margin-top: 50px;
+    height: 250px;
+    padding-top: 20px;
+    color: white;
+}
+
+
+
+.bg-top-footer{
+    text-align: center;
+}
+
+
+
+.footer-list{
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+
+
+
+
+
+
